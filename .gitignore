@@ -1,0 +1,56 @@
+# -------------------------------
+# Python byte‑compiled / cache
+# -------------------------------
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Ignore module build / dist folders
+build/
+dist/
+*.egg-info/
+
+# -------------------------------
+# Jupyter & IPython
+# -------------------------------
+.ipynb_checkpoints/
+
+# -------------------------------
+# VS Code settings / workspaces
+# -------------------------------
+.vscode/
+*.code-workspace
+
+# -------------------------------
+# Project‑local virtual‑envs
+# -------------------------------
+venv/
+env/
+.venv/
+
+# -------------------------------
+# OS generated files
+# -------------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------------
+# Miscellaneous
+# -------------------------------
+#   – compiled C extensions
+#   – coverage reports
+#   – pytest cache
+# -------------------------------
+*.pyd
+*.coverage
+htmlcov/
+.pytest_cache/
+
+# -------------------------------
+#  __init__ artifacts
+# -------------------------------
+#  (keep the actual __init__.py,
+#   ignore any temp files)
+# -------------------------------
+__init__.pyc
