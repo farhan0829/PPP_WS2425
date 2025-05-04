@@ -54,3 +54,11 @@ htmlcov/
 #   ignore any temp files)
 # -------------------------------
 __init__.pyc
+
+
+__pycache__/
+*.py[cod]
+.vscode/
+*.code-workspace
+venv/
+.venv/
