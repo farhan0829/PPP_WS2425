@@ -1,7 +1,7 @@
 # -------------------------------
 # Python byte‑compiled / cache
 # -------------------------------
-__pycache__/
+# __pycache__/
 *.py[cod]
 *.so
 .Python
@@ -53,11 +53,11 @@ htmlcov/
 #  (keep the actual __init__.py,
 #   ignore any temp files)
 # -------------------------------
-__init__.pyc
+# __init__.pyc
 
-__pycache__/
-*.py[cod]
-.vscode/
-*.code-workspace
-venv/
-.venv/
+# __pycache__/
+# *.py[cod]
+# .vscode/
+# *.code-workspace
+# venv/
+# .venv/
