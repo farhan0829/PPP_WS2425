@@ -55,8 +55,6 @@ htmlcov/
 # -------------------------------
 __init__.pyc
 
-git_history.txt
-
 __pycache__/
 *.py[cod]
 .vscode/
