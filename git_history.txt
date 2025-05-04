@@ -1,3 +1,33 @@
+commit c8464a25482585cb38a17e5746bbf326adc32058
+Author: Farhan Khimani <farhan@Farhans-MacBook-Pro.local>
+Date:   Sun May 4 16:23:09 2025 +0200
+
+    Clean tracked and ignored files
+
+commit 9a154ebd71fb4afc189b98f79aa154a677b0e0a9
+Author: Farhan Khimani <farhan@Farhans-MacBook-Pro.local>
+Date:   Sun May 4 16:20:31 2025 +0200
+
+    Update .gitignore for Python & VS Code
+
+commit 223baa7e144d3f234d7c641462dc44ee0b1195cc
+Author: Farhan Khimani <farhan@Farhans-MacBook-Pro.local>
+Date:   Sun May 4 16:15:13 2025 +0200
+
+    Full deployment with updated README
+
+commit 799a2f229843d9318e5db56c3db360a053f05053
+Author: Farhan Khimani <farhan@Farhans-MacBook-Pro.local>
+Date:   Sun May 4 16:09:43 2025 +0200
+
+    Full deployment with updated README
+
+commit 42eeeb3dea0f181726327570c92ccc2ecba5a567
+Author: farhan0829 <farhankhimani123@gmail.com>
+Date:   Sun May 4 16:07:35 2025 +0200
+
+    Update README.md
+
 commit d9e8c73419abace5b6d649f90b2a188a6a008dee
 Author: Farhan Khimani <farhan@Farhans-MacBook-Pro.local>
 Date:   Sun May 4 14:06:29 2025 +0200
